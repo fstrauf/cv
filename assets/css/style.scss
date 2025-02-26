@@ -1,9 +1,68 @@
 @import "{{ site.theme }}";
 
-// Custom styles
-body {
-  font-family: 'Helvetica Neue', Arial, sans-serif;
-  line-height: 1.6;
+// Custom styles for Cayman theme
+.page-header {
+  padding: 1rem 2rem;
+  background-color: #159957;
+  background-image: linear-gradient(120deg, #155799, #159957);
+}
+
+.project-name {
+  margin-top: 0;
+  margin-bottom: 0.1rem;
+}
+
+.project-tagline {
+  margin-bottom: 0;
+  opacity: 0.7;
+}
+
+.main-content {
+  h1, h2, h3, h4, h5, h6 {
+    color: #2c3e50;
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  h2 {
+    border-bottom: 1px solid #eee;
+    padding-bottom: 0.3rem;
+  }
+  
+  h3 {
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+  }
+}
+
+.job-date {
+  color: #7f8c8d;
+  font-style: italic;
+  margin-bottom: 0.8rem;
+}
+
+ul {
+  padding-left: 1.5rem;
+}
+
+li {
+  margin-bottom: 0.5rem;
+}
+
+a {
+  color: #1e6bb8;
+  text-decoration: none;
+  
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.site-footer {
+  padding-top: 1rem;
+  margin-top: 2rem;
+  border-top: solid 1px #eff0f1;
+  font-size: 0.9rem;
 }
 
 .wrapper {
@@ -15,43 +74,6 @@ section {
   width: 800px;
   float: none;
   padding-bottom: 50px;
-}
-
-h1, h2, h3 {
-  color: #2c3e50;
-}
-
-h2 {
-  border-bottom: 1px solid #eee;
-  padding-bottom: 5px;
-  margin-top: 30px;
-}
-
-h3 {
-  margin-top: 25px;
-  margin-bottom: 5px;
-}
-
-.job-date {
-  color: #7f8c8d;
-  font-style: italic;
-  margin-bottom: 10px;
-}
-
-ul {
-  padding-left: 20px;
-}
-
-li {
-  margin-bottom: 8px;
-}
-
-a {
-  color: #3498db;
-}
-
-a:hover {
-  text-decoration: underline;
 }
 
 footer {
