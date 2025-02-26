@@ -63,42 +63,4 @@ a {
   margin-top: 2rem;
   border-top: solid 1px #eff0f1;
   font-size: 0.9rem;
-}
-
-.wrapper {
-  width: 860px;
-  margin: 0 auto;
-}
-
-section {
-  width: 800px;
-  float: none;
-  padding-bottom: 50px;
-}
-
-footer {
-  width: 800px;
-  float: none;
-  position: static;
-  bottom: auto;
-}
-
-@media print, screen and (max-width: 960px) {
-  div.wrapper {
-    width: auto;
-    margin: 0;
-  }
-
-  section, footer {
-    float: none;
-    position: static;
-    width: auto;
-  }
-
-  section {
-    border: 1px solid #e5e5e5;
-    border-width: 1px 0;
-    padding: 20px 0;
-    margin: 0 0 20px;
-  }
 } 
