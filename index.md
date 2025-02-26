@@ -1,3 +1,8 @@
+---
+layout: default
+title: Florian Strauf - CV
+---
+
 # Florian Strauf
 
 f.strauf@gmail.com | [Twitter](https://x.com/ffstrauf) | [LinkedIn](https://www.linkedin.com/in/florian-strauf-50800965/) | [GitHub](https://github.com/fstrauf) | Location: New Zealand
