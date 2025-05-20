@@ -8,7 +8,7 @@ f.strauf@gmail.com | [Twitter](https://x.com/ffstrauf) | [LinkedIn](https://www.
 ## SUMMARY
 
 
-Entrepreneurial technology leader with a unique blend of business and technology expertise. CTO with proven ability to rapidly build and scale products from concept to market. Skilled at leading technical teams, optimizing development processes, and delivering complex architectures. Pragmatic problem-solver who excels at identifying what matters and delivering high-quality MVPs at speed. Oh, and I use AI every day.
+Entrepreneur with a unique blend of business and technology expertise. CTO with proven ability to rapidly build and scale products from concept to market. Skilled at leading technical teams, optimizing development processes, and delivering complex architectures. Pragmatic problem-solver who excels at identifying what matters and delivering high-quality MVPs at speed.
 
 ## CORE STRENGTHS
 
@@ -29,11 +29,11 @@ Finance management solution focused on custom transaction categorisation models.
 - Developed an AI-powered expense categorization system that integrates with Google Sheets, Lunch Money and is available through an API
 - Expense Categorisation for any bank transactions that predict categories of new transactions with high accuracy
 - Built a financial independence calculator that helps users understand their "runway" - how long they can sustain themselves without income
-- Created educational content around the concept of "Fuck You Money" - having enough savings to provide freedom of choice
+- Created educational content around the concept of "Financial Independence" - having enough savings to provide freedom of choice
 
 
 ### CTO at Forgd.com
-**Jan 2024 - March 2024**
+**Jan 2024 - March 2025**
 
 Led the technical vision and delivery of [Forgd.com](https://www.forgd.com/), a comprehensive platform offering free tools for blockchain builders.
 
@@ -48,7 +48,7 @@ Led the technical vision and delivery of [Forgd.com](https://www.forgd.com/), a 
   - Complex SQL stored procedures and ranking algorithms for performance analytics
 - Developed an RFQ portal enabling market makers to bid on projects
 
-### Founder & CEO at Tokenomics DAO
+### Founder & CEO at Tokenomics DAO (acquired by Forgd.com)
 **2021 - 2024**
 
 Founded and led a tokenomics-focused community designing and ideating for web3 projects, producing thought leadership.
@@ -72,7 +72,7 @@ Bridging between business and technology, translating requirements into custom p
 - Led agile delivery teams through successful PoCs, pilots, and production implementations
   
 ### Development Consultant at SER Solutions Deutschland GmbH
-**2008 - 2014**
+**2005 - 2014**
 
 Progressed from apprentice to development consultant, focusing on SAP integrations and enterprise content management.
 
